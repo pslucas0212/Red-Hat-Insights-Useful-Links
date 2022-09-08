@@ -9,3 +9,8 @@
 - [Getting started with Red Hat Insights and OpenSCAP for compliance reporting](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
 - [Red Hat Compliance service and the Red Hat Insights API](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
 - [Discover and remediate security vulnerabilities faster with Red Hat Insights](https://www.redhat.com/en/blog/discover-and-remediate-security-vulnerabilities-faster-red-hat-insights)
+
+
+## Splunk
+- [Introducing Red Hat Insights integration with Splunk](https://www.redhat.com/en/blog/introducing-red-hat-insights-integration-splunk)
+- From splunkbase - [Red Hat Insights])https://splunkbase.splunk.com/app/6439/)
