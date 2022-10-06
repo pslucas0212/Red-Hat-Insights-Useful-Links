@@ -10,7 +10,10 @@
 - [Red Hat Compliance service and the Red Hat Insights API](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
 - [Discover and remediate security vulnerabilities faster with Red Hat Insights](https://www.redhat.com/en/blog/discover-and-remediate-security-vulnerabilities-faster-red-hat-insights)
 
+## Red Hat OpenShift
+- [What is new in Insights Advisor for Red Hat OpenShift](https://www.redhat.com/en/blog/what-new-insights-advisor-openshift)
+
 
 ## Splunk
 - [Introducing Red Hat Insights integration with Splunk](https://www.redhat.com/en/blog/introducing-red-hat-insights-integration-splunk)
-- From splunkbase - [Red Hat Insights])https://splunkbase.splunk.com/app/6439/)
+- From splunkbase - [Red Hat Insights](https://splunkbase.splunk.com/app/6439/)
