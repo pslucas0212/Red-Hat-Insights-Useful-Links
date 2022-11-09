@@ -9,6 +9,7 @@
 - [Getting started with Red Hat Insights and OpenSCAP for compliance reporting](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
 - [Red Hat Compliance service and the Red Hat Insights API](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
 - [Discover and remediate security vulnerabilities faster with Red Hat Insights](https://www.redhat.com/en/blog/discover-and-remediate-security-vulnerabilities-faster-red-hat-insights)
+- [How to unregister/delete a system from console.redhat.com inventory?](https://access.redhat.com/solutions/1552923)
 
 ## Red Hat OpenShift
 - [What is new in Insights Advisor for Red Hat OpenShift](https://www.redhat.com/en/blog/what-new-insights-advisor-openshift)
