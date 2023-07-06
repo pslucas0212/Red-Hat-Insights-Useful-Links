@@ -13,7 +13,8 @@
 - [How to unregister/delete a system from console.redhat.com inventory?](https://access.redhat.com/solutions/1552923)
 - [Take the unknowns out of RHEL upgrades with Red Hat Insights](https://www.redhat.com/en/blog/take-unknowns-out-rhel-upgrades-red-hat-insights)
 - [5 ways Red Hat Insights can improve your sysadmin life](https://www.redhat.com/sysadmin/5-ways-insights) - November 2022
-
+- [How to deploy Red Hat Insights Hosted Service to manage PAYGO Red Hat Enterprise Linux on Google Cloud](https://cloud.redhat.com/blog/how-to-deploy-red-hat-insights-hosted-service-to-manage-paygo-red-hat-enterprise-linux-on-google-cloud)
+  
 ## Red Hat OpenShift
 - [What is new in Insights Advisor for Red Hat OpenShift](https://www.redhat.com/en/blog/what-new-insights-advisor-openshift)
 
