@@ -5,6 +5,7 @@
 ## Insights
 - [Red Hat Insights - Overview](https://access.redhat.com/products/red-hat-insights)
 - [Red Hat Insights Information and Resources](https://access.redhat.com/node/5245251) - Everything you need to know about Insight on one page
+- [Integrate Grafana and Red Hat Insights through APIs](https://www.redhat.com/en/blog/integrate-grafana-and-red-hat-insights-through-apis)
 
 ## Red Hat Enterprise Linux
 - [Getting started with Red Hat Insights and OpenSCAP for compliance reporting](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
