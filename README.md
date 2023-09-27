@@ -7,6 +7,7 @@
 - [Red Hat Insights Information and Resources](https://access.redhat.com/node/5245251) - Everything you need to know about Insight on one page
 - [Integrate Grafana and Red Hat Insights through APIs](https://www.redhat.com/en/blog/integrate-grafana-and-red-hat-insights-through-apis)
 - [Role-based access control for Red Hat Hybrid Cloud Console](https://www.redhat.com/en/blog/role-based-access-control-red-hat-hybrid-cloud-console)
+- [Integrate Red Hat Insights into your existing operational workflow](https://www.redhat.com/en/blog/integrate-red-hat-insights-your-existing-operational-workflow)
 
 ## Red Hat Enterprise Linux
 - [Getting started with Red Hat Insights and OpenSCAP for compliance reporting](https://www.redhat.com/en/blog/red-hat-compliance-service-and-red-hat-insights-api)
@@ -19,6 +20,10 @@
   
 ## Red Hat OpenShift
 - [What is new in Insights Advisor for Red Hat OpenShift](https://www.redhat.com/en/blog/what-new-insights-advisor-openshift)
+
+## Event Driven Insights
+- [Red Hat Insights integration with Event-Driven Ansible](https://www.redhat.com/en/about/videos/red-hat-insights-with-event-driven-ansible) - Video
+- [Using Red Hat Insights as a source of events for Event-Driven Ansible automation](https://www.ansible.com/blog/using-red-hat-insights-as-a-source-of-events-for-event-driven-ansible-automation)
 
 
 ## Splunk
